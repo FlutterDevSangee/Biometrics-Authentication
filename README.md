@@ -1,6 +1,6 @@
-# biometrics
+# Biometrics
 
-A new Flutter project.
+This Flutter project demonstrates biometric authentication using fingerprint and pattern recognition. It provides a secure and convenient way for users to access sensitive features of your app. The project uses the 'local_auth' package to handle biometric authentication seamlessly on devices.
 
 ## Getting Started
 
